@@ -54,7 +54,7 @@ function Header() {
       <div className="collapse navbar-collapse active" id="collapsibleNavbar">
         <ul className="navbar-nav navbar-collapse_left navbar_item ">
           <li className="nav-item me-1 me-lg-2 ">
-            <Link to="/save-the-meal/" className="nav-link">
+            <Link to="/" className="nav-link">
               <span className="d-sm-block ms-1">Home</span>
             </Link>
           </li>
