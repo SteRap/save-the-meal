@@ -8,7 +8,7 @@ import { BrowserRouter } from "react-router-dom";
 import { HashRouter } from "react-router-dom";
 
 ReactDOM.render(
-  <HashRouter basename="/save-the-meal">
+  <HashRouter basename="/save-the-meal/">
     <App />
   </HashRouter>,
   document.getElementById("root")
