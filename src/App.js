@@ -15,7 +15,7 @@ function App() {
         <Header />
       </div>
       <Routes>
-        <Route path="save-the-meal/" element={<Home />} exact />
+        <Route path="/quelporco" element={<Home />} exact />
         <Route path="/foods" element={<WIP />} />
         <Route path="/store" element={<WIP />} />
         <Route path="/recipes" element={<WIP />} />
